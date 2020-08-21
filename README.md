@@ -1,2 +1,2 @@
-# batchide
-App allows make .bat apps easy!
+# Batch Visual IDE
+То самое визуальное программированое без знания самого программирования. 
